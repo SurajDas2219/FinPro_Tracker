@@ -64,8 +64,9 @@ FinPro-Tracker is a sleek and simple expense tracking web application that helps
    npm run dev
    ```
 5. Visit the app at:
+
    ```
-   http://localhost:3000
+   https://expense-tracker-pro-371151.netlify.app/
    ```
 
 ---
